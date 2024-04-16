@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenefactorYuvi
+- 👋 Hi, I’m Benefactor
 - 👀 I’m interested in Penetration Testing [Ethical Hacking but on offensive side]
 - 🌱 I’m learning something new about pentesting daily 
 - 💞️ I’m looking to collaborate on for Bug Hunting on Hackerone/Bugcrowd/Intigriti
